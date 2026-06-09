@@ -1,0 +1,18 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# Android Studio / Gradle output
+.gradle/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
